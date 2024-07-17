@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_editgender_reliability</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e7e1977-57f2-4eab-9ad9-5829b6d7df9b</testCaseGuid>
+</TestCaseEntity>

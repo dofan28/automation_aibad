@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_formselectgender_reliability</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a293a1ac-bf4d-46bb-9666-308f63d6c074</testCaseGuid>
+</TestCaseEntity>

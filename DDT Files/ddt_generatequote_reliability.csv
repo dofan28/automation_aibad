@@ -1,0 +1,5 @@
+testType,feeling,expectedResult
+Negative,none,none
+Negative,hsks8nsms 29w,Invalid Format Random
+Negative,I am sick,Invalid Format Language
+Negative,Saya,Too Short

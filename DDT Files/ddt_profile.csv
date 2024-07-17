@@ -1,0 +1,6 @@
+testType,name,gender,age,acitivity,expectedResult
+Positive,aldow,Laki-Laki,21,mahasiswa,Valid
+Negative,aldow,21,none,none,Empty 
+Negative,aldow,none,none,none,Empty 
+Negative,#ldow,none,none,none,Invalid Format Name
+Negative,none,none,2*,none,Invalid Format Age

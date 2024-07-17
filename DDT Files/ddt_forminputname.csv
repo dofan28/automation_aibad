@@ -1,0 +1,5 @@
+testType,name,expectedResult
+Negative,none,none
+Negative,%9j0hndoe,Invalid Format
+Negative,johndoeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,Too Long
+Positive,john,Valid

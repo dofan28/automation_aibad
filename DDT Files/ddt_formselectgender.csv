@@ -1,0 +1,4 @@
+testType,gender,expectedResult
+Positive,Laki-Laki,Valid
+Negative,123,Invalid Format
+Negative,none,none

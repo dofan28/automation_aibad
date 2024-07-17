@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_formselectactivity_reliability</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6eb8cb7a-34cc-42e4-ab48-0c93cb79c196</testCaseGuid>
+</TestCaseEntity>

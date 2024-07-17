@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_generatequotes_correctness</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c4e4403-5577-4aca-a495-df8a50b48c40</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d309fac-6da2-44f5-ad9f-9c781787fe4c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4440eb6e-c7b6-4ab9-b17d-adeb3517bfe9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee9737c1-2d10-4bd7-95c7-4c70f96a13e5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Saya selalu bersyukur atas nikmat yang diberikan tuhan'</defaultValue>
+      <description></description>
+      <id>4d309fac-6da2-44f5-ad9f-9c781787fe4c</id>
+      <masked>false</masked>
+      <name>feeling</name>
+   </variable>
+   <variable>
+      <defaultValue>'Positive'</defaultValue>
+      <description></description>
+      <id>4440eb6e-c7b6-4ab9-b17d-adeb3517bfe9</id>
+      <masked>false</masked>
+      <name>testType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Valid'</defaultValue>
+      <description></description>
+      <id>ee9737c1-2d10-4bd7-95c7-4c70f96a13e5</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

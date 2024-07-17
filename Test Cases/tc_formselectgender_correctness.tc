@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_formselectgender_correctness</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c7c6c80-2229-4e85-b343-15139fc85b6b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_editname</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4961e9ca-4a93-491a-a414-b24a559b91d1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf35a6c9-79f5-4f16-aeed-df21c9a0e377</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4394497-fc0d-4a80-ac07-fd3299d678ba</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3fefc61d-24ff-4d33-94cb-a4bd0d498119</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'john doe'</defaultValue>
+      <description></description>
+      <id>bf35a6c9-79f5-4f16-aeed-df21c9a0e377</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Positive'</defaultValue>
+      <description></description>
+      <id>b4394497-fc0d-4a80-ac07-fd3299d678ba</id>
+      <masked>false</masked>
+      <name>testType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Valid'</defaultValue>
+      <description></description>
+      <id>3fefc61d-24ff-4d33-94cb-a4bd0d498119</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

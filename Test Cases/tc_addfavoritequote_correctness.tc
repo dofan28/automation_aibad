@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_addfavoritequote_correctness</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6a4f9b08-b003-4aa4-936f-231cd242549f</testCaseGuid>
+</TestCaseEntity>

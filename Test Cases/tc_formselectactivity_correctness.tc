@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_formselectactivity_correctness</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88eadde5-2e6d-4e5e-bb2b-d3fa075c7b95</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,3 @@
+testType,age,expectedResult
+Negative,none,none
+Negative,duapuluh,Invalid Format
